@@ -3,7 +3,7 @@ const HtmlWebpackPlugin = require('html-webpack-plugin')
 const ForkTsCheckerWebpackPlugin = require('fork-ts-checker-webpack-plugin');
 
 const entry = {
-  'main': ['@babel/polyfill', './src']
+  'main': ['@babel/polyfill', './src/index.tsx']
 }
 
 const output = {
