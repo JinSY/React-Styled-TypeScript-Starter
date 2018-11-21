@@ -1,24 +1,24 @@
-import * as React from 'react';
+import React from 'react';
 import styled from 'styled-components';
 
-const Circle = styled.div`
-  height: 10px;
-  width: 10px;
-  border-radius: 5px;
-  background-color: rgb(0,0,190);
-`;
-
-const Square = styled.div`
+const Rectangle = styled.div`
   height: 30px;
   width: 100%;
   background-color: rgb(100,100,123);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Montserrat";
+  font-size: 30px;
+  color: white;
+  padding: 16px;
 `;
 
-const App = () => (
+const App = (): JSX.Element => (
   <div>
-    <Square />
-    React Styled-Components TypeScript
-    <Circle />
+    <Rectangle>
+      React Styled-Components TypeScript
+    </Rectangle>
   </div>
 );
 
