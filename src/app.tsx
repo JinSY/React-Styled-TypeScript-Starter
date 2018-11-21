@@ -4,7 +4,7 @@ import styled from 'styled-components';
 const Rectangle = styled.div`
   height: 30px;
   width: 100%;
-  background-color: rgb(100,100,123);
+  background-color: rgb(120,100,123);
   display: flex;
   justify-content: center;
   align-items: center;
