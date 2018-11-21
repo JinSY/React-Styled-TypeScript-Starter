@@ -61,7 +61,7 @@
       "**/?(*.)+(spec|test).ts?(x)"
     ],
     "setupFiles": [
-      "<rootDir>/src/setup-test.ts"
+      "<rootDir>/test-setup.js"
     ]
   }
 }
