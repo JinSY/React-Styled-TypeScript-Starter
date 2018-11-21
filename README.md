@@ -1,2 +1,14 @@
 # React-Styled-TypeScript-Starter
-React Starter with TypeScript and Styled Components
+React
+Styled Components
+TypeScript
+Jest
+Babel 7
+Webpack 4
+
+# Prerequisites
+Node v8+
+
+# Setup
+To install packages `npm install` or `yarn`
+To run the project `npm start` or `yarn start`
