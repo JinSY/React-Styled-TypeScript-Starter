@@ -5,7 +5,7 @@ Styled Components
 
 TypeScript
 
-Jest
+Jest + Enzyme
 
 Babel 7
 
