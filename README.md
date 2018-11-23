@@ -11,6 +11,10 @@ Babel 7
 
 Webpack 4
 
+Prettier
+
+TSLint
+
 
 # Prerequisites
 Node v8+
