@@ -1,20 +1,12 @@
 # React-Styled-TypeScript-Starter
-React
-
-Styled Components
-
-TypeScript
-
-Jest + Enzyme
-
-Babel 7
-
-Webpack 4
-
-Prettier
-
-TSLint
-
+- React
+- Styled Components
+- TypeScript
+- Jest + Enzyme
+- Babel 7
+- Webpack 4
+- Prettier
+- TSLint
 
 # Prerequisites
 Node v8+
