@@ -12,7 +12,7 @@
 Node v8+
 
 # Setup
-To install packages ``yarn`
+To install packages `yarn`
 
 To run the project `yarn start`
 
