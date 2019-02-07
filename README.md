@@ -12,9 +12,9 @@
 Node v8+
 
 # Setup
-To install packages `npm install` or `yarn`
+To install packages ``yarn`
 
-To run the project `npm start` or `yarn start`
+To run the project `yarn start`
 
 # Caveats
 
