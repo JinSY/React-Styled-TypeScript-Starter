@@ -5,7 +5,7 @@ const ForkTsCheckerWebpackPlugin = require('fork-ts-checker-webpack-plugin')
 const ForkTsCheckerNotifierWebpackPlugin = require('fork-ts-checker-notifier-webpack-plugin')
 
 const entry = {
-  main: ['@babel/polyfill', './src/index.tsx'],
+  main: ['./src/index.tsx'],
 }
 
 const output = {

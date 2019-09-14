@@ -18,6 +18,7 @@
     "esModuleInterop": true,
     "baseUrl": ".",
     "sourceMap": true,
+    "skipLibCheck": true,
     "paths": {
       "src/*": ["./src/*"]
     }

@@ -19,7 +19,9 @@
     "no-unused-expression": true,
     "no-submodule-imports": [
       true,
-      "src"
+      "src",
+      "core-js",
+      "regenerator-runtime"
     ],
     "object-literal-sort-keys": false,
     "ordered-imports": false,
